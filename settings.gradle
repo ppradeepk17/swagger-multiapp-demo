@@ -1,0 +1,2 @@
+rootProject.name = 'SwaggerMultiApplication'
+include 'common', 'module-a', 'module-b', 'module-c'
